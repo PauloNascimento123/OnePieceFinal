@@ -1,0 +1,11 @@
+/*Resetar os formatos padrões que já vem no HTML*/
+
+* {
+    margin: 0;
+    padding: 0; /*Espaçamento interno*/
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none; /*Retirar as bolinhas das listas*/
+}
